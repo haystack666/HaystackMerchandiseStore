@@ -5,5 +5,7 @@ Final project for JavaWeb class in sophomore year of college. A small mall inclu
 
 **代码很乱，命名规则也很乱**
 
+
+以下是一些项目图片
 ![image](https://github.com/haystack666/HaystackMerchandiseStore/assets/56021097/dc134410-bd17-42ae-9863-174b5ef81c90)
 ![image](https://github.com/haystack666/HaystackMerchandiseStore/assets/56021097/7656e740-01e7-4132-9541-c0b2c306024e)
