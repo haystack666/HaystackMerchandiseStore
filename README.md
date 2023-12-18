@@ -5,11 +5,11 @@ Final project for JavaWeb class in sophomore year of college. A small mall inclu
 
 **------2023年12月18日更新------**
 
-新增 简单到不能再简单的用户登陆注册
+**新增** 简单到不能再简单的用户登陆注册
 
-新增 验证Session判断是否登录
+**新增** 验证Session判断是否登录
 
-新增 商品结算功能
+**新增** 商品结算功能
 
 *估计这玩意儿也就这样了，才疏学浅，以后继续
 
