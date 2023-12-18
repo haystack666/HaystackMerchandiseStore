@@ -3,7 +3,7 @@ Final project for JavaWeb class in sophomore year of college. A small mall inclu
 
 大学二年级的JavaWeb课期末项目。一个小商城，包含增加商品、修改商品信息、删除商品、加入购物车、编辑购物车、删除购物车。
 
-------2023年12月18日更新------
+**------2023年12月18日更新------**
 
 新增 简单到不能再简单的用户登陆注册
 
